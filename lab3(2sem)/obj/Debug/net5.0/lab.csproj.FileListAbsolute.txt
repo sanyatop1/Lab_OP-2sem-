@@ -1,0 +1,16 @@
+C:\Progbase\lab\bin\Debug\net5.0\lab.exe
+C:\Progbase\lab\bin\Debug\net5.0\lab.deps.json
+C:\Progbase\lab\bin\Debug\net5.0\lab.runtimeconfig.json
+C:\Progbase\lab\bin\Debug\net5.0\lab.runtimeconfig.dev.json
+C:\Progbase\lab\bin\Debug\net5.0\lab.dll
+C:\Progbase\lab\bin\Debug\net5.0\ref\lab.dll
+C:\Progbase\lab\bin\Debug\net5.0\lab.pdb
+C:\Progbase\lab\obj\Debug\net5.0\lab.csprojAssemblyReference.cache
+C:\Progbase\lab\obj\Debug\net5.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progbase\lab\obj\Debug\net5.0\lab.AssemblyInfoInputs.cache
+C:\Progbase\lab\obj\Debug\net5.0\lab.AssemblyInfo.cs
+C:\Progbase\lab\obj\Debug\net5.0\lab.csproj.CoreCompileInputs.cache
+C:\Progbase\lab\obj\Debug\net5.0\lab.dll
+C:\Progbase\lab\obj\Debug\net5.0\ref\lab.dll
+C:\Progbase\lab\obj\Debug\net5.0\lab.pdb
+C:\Progbase\lab\obj\Debug\net5.0\lab.genruntimeconfig.cache
