@@ -1,0 +1,12 @@
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\bin\Debug\net5.0\ProgbaseLab.ImageEditor.Common.deps.json
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\bin\Debug\net5.0\ProgbaseLab.ImageEditor.Common.dll
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\bin\Debug\net5.0\ref\ProgbaseLab.ImageEditor.Common.dll
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\bin\Debug\net5.0\ProgbaseLab.ImageEditor.Common.pdb
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.csprojAssemblyReference.cache
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.AssemblyInfoInputs.cache
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.AssemblyInfo.cs
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.csproj.CoreCompileInputs.cache
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.dll
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ref\ProgbaseLab.ImageEditor.Common.dll
+C:\Progbase\lab4(solution)\MyAppSolution\ProgbaseLab.ImageEditor.Common\obj\Debug\net5.0\ProgbaseLab.ImageEditor.Common.pdb
