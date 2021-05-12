@@ -1,0 +1,16 @@
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\lab5(2sem).exe
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\lab5(2sem).deps.json
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\lab5(2sem).runtimeconfig.json
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\lab5(2sem).runtimeconfig.dev.json
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\lab5(2sem).dll
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\ref\lab5(2sem).dll
+C:\Progbase\lab5(2sem)\bin\Debug\net5.0\lab5(2sem).pdb
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).csprojAssemblyReference.cache
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).GeneratedMSBuildEditorConfig.editorconfig
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).AssemblyInfoInputs.cache
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).AssemblyInfo.cs
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).csproj.CoreCompileInputs.cache
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).dll
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\ref\lab5(2sem).dll
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).pdb
+C:\Progbase\lab5(2sem)\obj\Debug\net5.0\lab5(2sem).genruntimeconfig.cache
